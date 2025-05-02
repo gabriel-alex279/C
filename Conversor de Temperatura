@@ -15,7 +15,7 @@ int main() {
         printf("Digite a temperatura em Celsius: ");
         scanf("%f", &temperatura);
         resultado = (temperatura * 9/5) + 32;
-        printf("%.2f Celsius é igual a %.2f Fahrenheit\n", temperatura, resultado);
+        printf("%.2f°C é igual a %.2f°F\n", temperatura, resultado);
     } else if (opcao == 2) {
         printf("Digite a temperatura em Fahrenheit: ");
         scanf("%f", &temperatura);
