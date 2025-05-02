@@ -6,7 +6,7 @@ Exercícios e exemplos simples feitos em Linguagem C.
 
 - [🧮Tabuada](https://github.com/gabriel-alex279/Linguagem-C/commit/c9dc29edad2ef7e1b81137f760da3e1dc6af5670)
 - [✖️Cálculo de Fatoriais](https://github.com/gabriel-alex279/Linguagem-C/commit/b3e87675ef2547bf0b55226af32e09fe96df441c)
-- [🌡️Conversor de Temperatuas](https://github.com/gabriel-alex279/Linguagem-C/commit/44a3ef8be6f860a623349b92964db985bc582d94)
+- [🌡️Conversor de Temperatuas](https://github.com/gabriel-alex279/Linguagem-C/commit/8463244f70a766fa4b75bfb5ed6098f9c64cac23)
 
 ## Atividades Acadêmicas 🎓
 
