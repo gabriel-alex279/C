@@ -8,6 +8,11 @@ Exercícios e exemplos simples feitos em Linguagem C.
 - [✖️Cálculo de Fatoriais](https://github.com/gabriel-alex279/Linguagem-C/commit/b3e87675ef2547bf0b55226af32e09fe96df441c)
 - [🌡️Conversor de Temperatuas](https://github.com/gabriel-alex279/Linguagem-C/commit/8463244f70a766fa4b75bfb5ed6098f9c64cac23)
 - [💸Salário Líquido](https://github.com/gabriel-alex279/Linguagem-C/commit/46385091627dc3453be436c1a587e9f1078e1b01)
+- [🚓Radar Eletrônico](https://github.com/gabriel-alex279/Linguagem-C/commit/16570d2206dcf197d9e5aabfa6cccca3c171e037)
+- [Texto](link).
+- [Texto](link).
+- [Texto](link).
+- [Texto](link).
 
 ## Atividades Acadêmicas 🎓
 
