@@ -11,7 +11,7 @@ Exercícios e exemplos simples feitos em Linguagem C.
 - [🚓Radar Eletrônico](https://github.com/gabriel-alex279/Linguagem-C/commit/16570d2206dcf197d9e5aabfa6cccca3c171e037)
 - [🔢Par ou Ímpar](https://github.com/gabriel-alex279/Linguagem-C/commit/80e3b9fdfd4188e76b905fc972492c7a8d09c4e1)
 - [👶👴Menor e Maior Idade](https://github.com/gabriel-alex279/Linguagem-C/commit/3d4e56bac66cfe4db039b59db40bf8b55cc40138)
-- [Texto](link)
+- [💳Empréstimo](https://github.com/gabriel-alex279/Linguagem-C/blob/main/Empr%C3%A9stimo)
 - [Texto](link)
 
 ## Atividades Acadêmicas 🎓
