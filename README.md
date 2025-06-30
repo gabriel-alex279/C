@@ -12,7 +12,7 @@ Exercícios e exemplos simples feitos em Linguagem C.
 - [🔢Par ou Ímpar](https://github.com/gabriel-alex279/Linguagem-C/commit/80e3b9fdfd4188e76b905fc972492c7a8d09c4e1)
 - [👶👴Menor e Maior Idade](https://github.com/gabriel-alex279/Linguagem-C/commit/3d4e56bac66cfe4db039b59db40bf8b55cc40138)
 - [💳Empréstimo](https://github.com/gabriel-alex279/Linguagem-C/commit/0e5a5cbb5e50cc568bb5cee7f221ae603c72b69a)
-- [Texto](link)
+- [🛍️Compras](https://github.com/gabriel-alex279/Linguagem-C/commit/82055c80d94e368c07a9eb7aa93bf38becc3b834)
 
 ## Atividades Acadêmicas 🎓
 
