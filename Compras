@@ -1,0 +1,39 @@
+#include <stdio.h>
+
+int main() {
+    float compras, vistaDCH, vistaCART, Cart2x, Cart3x;
+    int opção, parcelas;
+
+    printf("Quanto foi o preço das compras? R$: ");
+    scanf("%f", &compras);
+
+    printf("\nFORMAS DE PAGAMENTO:\n");
+    printf("[1] à vista dinheiro/cheque\n");
+    printf("[2] à vista no cartão\n");
+    printf("[3] 2x no cartão\n");
+    printf("[4] 3x ou mais no cartão\n");
+    printf("Qual é a opção? ");
+    scanf("%d", &opção);
+
+    vistaDCH = compras * 0.90;
+    vistaCART = compras * 0.95;
+    Cart2x = compras / 2;
+
+    if (opção == 1) {
+        printf("\nVocê fez R$%.2f reais em compras, com o desconto de 10%% à vista, o valor cai para R$%.2f\n", compras, vistaDCH);
+    }
+    if (opção == 2) {
+        printf("\nVocê fez R$%.2f reais em compras, com o desconto de 5%% à vista no cartão, o valor cai para R$%.2f\n", compras, vistaCART);
+    }
+    if (opção == 3) {
+        printf("\nVocê fez R$%.2f reais em compras, em 2x no cartão de crédito, o valor de cada parcela é de R$%.2f\n", compras, Cart2x);
+    }
+    if (opção == 4) {
+        printf("Em quantas vezes? ");
+        scanf("%d", &parcelas);
+        Cart3x = compras / parcelas;
+        printf("\nVocê fez R$%.2f reais em compras, em %dx no cartão de crédito, o valor de cada parcela é de R$%.2f\n", compras, parcelas, Cart3x);
+    }
+
+    return 0;
+}
