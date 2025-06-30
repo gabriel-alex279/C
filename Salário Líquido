@@ -1,0 +1,33 @@
+#include <stdio.h>
+
+int main() {
+    // Declaração de variáveis
+    float p, INSS, VT, s, j, t, salario;
+    
+    // Inicialização das variáveis INSS e VT
+    INSS = 0.075;
+    VT = 0.06;
+
+    // Exibe o cabeçalho
+    printf("----------------------------------\n\n");
+    
+    // Solicita o salário do funcionário
+    printf("Qual é o salário do funcionário? R$");
+    scanf("%f", &p);
+
+    // Calcula os descontos
+    s = p * INSS;
+    j = p * VT;
+    t = s + j;
+    salario = p - t;
+
+    // Exibe os descontos e salário líquido
+    printf("\nO desconto do INSS é de: \033[034mR$%.2f\033[0;0m\n", s);
+    printf("\nO desconto do VT é de: \033[034mR$%.2f\033[0;0m\n", j);
+    printf("\nO salário líquido é de: \033[031mR$%.2f\033[0;0m\n", salario);
+
+    // Exibe o rodapé
+    printf("\n----------------------------------\n");
+
+    return 0;
+}
