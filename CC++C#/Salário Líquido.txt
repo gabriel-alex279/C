@@ -1,0 +1,47 @@
+using System;
+
+class Program
+{
+    static void Main()
+    {
+        Console.WriteLine(new string('-', 30));
+        Console.WriteLine();
+
+        // Solicita o salário do funcionário
+        Console.Write("Qual é o salário do funcionário? R$ ");
+        float p = float.Parse(Console.ReadLine());
+
+        // Definição das alíquotas
+        float INSS = 0.075f;
+        float VT = 0.06f;
+
+        // Cálculos dos descontos
+        float s = p * INSS;
+        float j = p * VT;
+        float t = s + j;
+
+        // Cálculo do salário líquido
+        float salario = p - t;
+
+        // Exibe os resultados
+        Console.WriteLine();
+        Console.ForegroundColor = ConsoleColor.Blue;
+        Console.WriteLine($"O desconto do INSS é de: R${s:F2}");
+        Console.ResetColor();
+
+        Console.WriteLine();
+
+        Console.ForegroundColor = ConsoleColor.Blue;
+        Console.WriteLine($"O desconto do VT é de: R${j:F2}");
+        Console.ResetColor();
+
+        Console.WriteLine();
+
+        Console.ForegroundColor = ConsoleColor.Red;
+        Console.WriteLine($"O salário líquido é de: R${salario:F2}");
+        Console.ResetColor();
+
+        Console.WriteLine();
+        Console.WriteLine(new string('-', 30));
+    }
+}

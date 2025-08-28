@@ -1,0 +1,44 @@
+#include <iostream>
+#include <string>
+
+using namespace std;
+
+int main() {
+    int idadeT = 0, idade, maiorhomem = 0, totmulher = 0;
+    string nome, velhohomem;
+
+    for (int c = 1; c <= 4; c++) {
+        cout << "---- " << c << "ª PESSOA ----" << endl;
+        cout << "Nome: ";
+        getline(cin, nome);
+        cout << "Idade: ";
+        cin >> idade;
+        char sexo;
+        cout << "Sexo [M/F]: ";
+        cin >> sexo;
+        cin.ignore();
+
+        idadeT += idade;
+
+        if (sexo == 'M' || sexo == 'm') {
+            if (idade > maiorhomem) {
+                maiorhomem = idade;
+                velhohomem = nome;
+            }
+        }
+
+        if (sexo == 'F' || sexo == 'f') {
+            if (idade < 20) {
+                totmulher++;
+            }
+        }
+    }
+
+    float media = idadeT / 4.0;
+
+    cout << "A média de idade do grupo é de " << media << " anos." << endl;
+    cout << "O homem mais velho tem " << maiorhomem << " anos e ele se chama " << velhohomem << "." << endl;
+    cout << "E tivemos " << totmulher << " mulheres menores que 20 anos." << endl;
+
+    return 0;
+}

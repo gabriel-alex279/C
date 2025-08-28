@@ -1,0 +1,29 @@
+#include <iostream>
+
+using namespace std;
+
+int main() {
+    int ano_nasc, ano_atual = 2025, ano_milit, ano_diferen1, ano_diferen2;
+
+    cout << string(30, '-') << endl;
+    cout << "Em que ano você nasceu? ";
+    cin >> ano_nasc;
+
+    ano_milit = ano_atual - ano_nasc;
+    ano_diferen1 = ano_milit - 18;
+    ano_diferen2 = 18 - ano_milit;
+
+    if (ano_milit == 18) {
+        cout << "Já está na hora de você se alistar!" << endl;
+    }
+    if (ano_milit > 18) {
+        cout << "Já era para você ter se alistado a " << ano_diferen1 << " anos atrás." << endl;
+    }
+    if (ano_milit < 18) {
+        cout << "Você ainda não precisa se alistar! Somente daqui a " << ano_diferen2 << " anos." << endl;
+    }
+
+    cout << string(30, '-') << endl;
+
+    return 0;
+}

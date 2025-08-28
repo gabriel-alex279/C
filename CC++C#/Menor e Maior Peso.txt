@@ -1,0 +1,28 @@
+using System;
+
+class Program
+{
+    static void Main()
+    {
+        float maior = 0, menor = 999;
+
+        for (int p = 1; p <= 5; p++)
+        {
+            Console.Write($"Qual é o peso da {p}ª pessoa? KG: ");
+            float peso = float.Parse(Console.ReadLine());
+
+            if (peso > maior)
+            {
+                maior = peso;
+            }
+
+            if (peso < menor)
+            {
+                menor = peso;
+            }
+        }
+
+        Console.WriteLine($"\nO menor peso lido foi de {menor} KG");
+        Console.WriteLine($"E o maior peso lido foi de {maior} KG");
+    }
+}

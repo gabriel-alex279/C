@@ -1,0 +1,24 @@
+#include <iostream>
+#include <iomanip>  // Para controlar a precisão da saída
+
+using namespace std;
+
+int main() {
+    float peso, altura, imc;
+
+    // Solicita o peso e a altura do usuário
+    cout << "Digite seu peso (kg): ";
+    cin >> peso;
+
+    cout << "Digite sua altura (m): ";
+    cin >> altura;
+
+    // Calcula o IMC
+    imc = peso / (altura * altura);
+
+    // Exibe o IMC com duas casas decimais
+    cout << fixed << setprecision(2);
+    cout << "O seu IMC é: " << imc << endl;
+
+    return 0;
+}
