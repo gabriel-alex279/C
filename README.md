@@ -1,6 +1,6 @@
-# Códigos em Linguagem C 🖥️
+# Códigos em Linguagem C/C++/C# 🖥️
 
-Exercícios e exemplos simples feitos em Linguagem C.
+Exercícios e exemplos simples feitos em Linguagem C/C++/C#.
 
 ## Índice
 
@@ -13,6 +13,11 @@ Exercícios e exemplos simples feitos em Linguagem C.
 - [👶👴Menor e Maior Idade](https://github.com/gabriel-alex279/Linguagem-C/commit/3d4e56bac66cfe4db039b59db40bf8b55cc40138)
 - [💳Empréstimo](https://github.com/gabriel-alex279/Linguagem-C/commit/0e5a5cbb5e50cc568bb5cee7f221ae603c72b69a)
 - [🛍️Compras](https://github.com/gabriel-alex279/Linguagem-C/commit/82055c80d94e368c07a9eb7aa93bf38becc3b834)
+- [🎖️Alistamento Militar](https://github.com/gabriel-alex279/Linguagem-C/blob/main/CC%2B%2BC%23/Alistamento%20Militar.txt)
+- [🧑‍💻Analisador Completo](https://github.com/gabriel-alex279/Linguagem-C/blob/main/CC%2B%2BC%23/Analisador%20Completo.txt)
+- [🏋️‍♂️Cálculo IMC](https://github.com/gabriel-alex279/Linguagem-C/blob/main/CC%2B%2BC%23/C%C3%A1lculo%20IMC.txt)
+- [⚖️Menor e Maior Peso](https://github.com/gabriel-alex279/Linguagem-C/blob/main/CC%2B%2BC%23/Menor%20e%20Maior%20Peso.txt)
+- [💸Salário Líquido](https://github.com/gabriel-alex279/Linguagem-C/blob/main/CC%2B%2BC%23/Sal%C3%A1rio%20L%C3%ADquido.txt)
 
 ## Atividades Acadêmicas 🎓
 
