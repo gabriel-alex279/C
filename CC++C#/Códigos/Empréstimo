@@ -1,0 +1,40 @@
+#include <stdio.h>
+
+int main() {
+    // Declaração de variáveis
+    float valor_casa, salário, custo_parcela, desconto_salário;
+    int anos, tempo_quitação;
+
+    // Exibe o cabeçalho
+    printf("------------------------------\n\n");
+
+    // Solicita o valor da casa
+    printf("Qual é o valor da casa? R$: ");
+    scanf("%f", &valor_casa);
+
+    // Solicita o salário
+    printf("\nQual é o seu salário? R$: ");
+    scanf("%f", &salário);
+
+    // Solicita o número de anos para quitar o empréstimo
+    printf("\nEm quantos anos você quer quitar o empréstimo? ");
+    scanf("%d", &anos);
+
+    // Calcula o tempo de quitação em meses e o custo da parcela
+    tempo_quitação = anos * 12;
+    desconto_salário = salário * 0.30;
+    custo_parcela = valor_casa / tempo_quitação;
+
+    // Verifica se a parcela é maior que 30% do salário
+    if (custo_parcela >= desconto_salário) {
+        printf("\nSeu empréstimo foi negado! Para quitar uma casa no valor de R$%.2f em %d anos, sua prestação seria de R$%.2f por mês.\n", valor_casa, anos, custo_parcela);
+        printf("O banco só autoriza o empréstimo, se o custo da parcela for relativo a 30%% do seu salário!\n");
+    } else {
+        printf("\nSeu empréstimo foi autorizado! Para quitar uma casa no valor de R$%.2f em %d anos, a prestação será de R$%.2f por mês.\n", valor_casa, anos, custo_parcela);
+    }
+
+    // Exibe o rodapé
+    printf("\n------------------------------\n");
+
+    return 0;
+}
