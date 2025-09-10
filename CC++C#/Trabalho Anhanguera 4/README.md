@@ -63,12 +63,12 @@ Crio um código simples de um sistema que pede ao usuário que ele insira quanto
 <img width="1023" height="607" alt="2" src="https://github.com/user-attachments/assets/970b0238-a361-4736-a9d7-dedddf5a6383" />
 
 
-Neste exemplo abaixo, insiro os valores 12 e 160, indicando quando ele recebe por hora, e quantas horas ele trabalha por mês:
+Neste exemplo abaixo, insiro os valores 12 e 160, indicando quanto ele recebe por hora, e quantas horas ele trabalha por mês:
 <img width="1023" height="606" alt="3" src="https://github.com/user-attachments/assets/402f0670-6817-4787-9401-d6f2639e185c" />
 
 
-Neste outro exemplo, coloco valores diferentes mas, desta vez, simulando a remuneração de um estagiário:
-<img width="1023" height="608" alt="4" src="https://github.com/user-attachments/assets/9f79e4c4-6713-4743-9a66-6d9f1a31b77a" />
+Neste outro exemplo, coloco valores diferentes:
+<img width="1023" height="605" alt="4" src="https://github.com/user-attachments/assets/7172668d-fd1c-40a6-a552-60562dcb797f" />
 
 
 ## RESULTADOS DE APRENDIZAGEM:
