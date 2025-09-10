@@ -43,15 +43,19 @@ usuário deseja somar uma série de números inteiros até decidir que não dese
 
 
 Aqui eu acesso o OnlineGDB:
+<img width="1023" height="606" alt="1" src="https://github.com/user-attachments/assets/000bec53-cd7c-4d81-8774-f9145cd3b29e" />
 
 
 Crio um código simples de um sistema que pede ao usuário digitar algum número. Uma vez inserido, o sistema permite que o usuário continue digitando diversos valores até o mesmo inserir o número 0, que vai interromper o loop infinito (while):
+<img width="1023" height="606" alt="2" src="https://github.com/user-attachments/assets/9d4b673a-95ad-48fe-b69b-d0278ffa9739" />
 
 
 Neste exemplo abaixo, insiro os valores 3, 5, 7, 9, 11 e por fim, o número 0,para dar fim ao programa. No final, o sistema mostra a soma de todos os valores inseridos:
+<img width="1023" height="608" alt="3" src="https://github.com/user-attachments/assets/b0fa0ee3-9975-4c44-82de-64acabcf08f3" />
 
 
 Neste outro exemplo, coloco valores diferentes:
+<img width="1023" height="607" alt="4" src="https://github.com/user-attachments/assets/5146ccf8-8cb3-4f03-a37e-1bd8c64ea3dd" />
 
 
 ## RESULTADOS DE APRENDIZAGEM:
@@ -60,4 +64,4 @@ Compreendi o funcionamento da estrutura de repetição (while), e fui capaz de i
 
 ## CÓDIGO COMPLETO:
 
-[Clique aqui!]()
+[Clique aqui!](https://github.com/gabriel-alex279/C/blob/main/CC%2B%2BC%23/Trabalho%20Anhanguera%202/C%C3%B3digo%20Completo.txt)
