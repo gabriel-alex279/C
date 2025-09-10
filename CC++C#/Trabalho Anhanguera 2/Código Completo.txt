@@ -1,0 +1,21 @@
+
+# include <stdio.h>
+
+int main() {
+
+    int nmr = 1;
+    int dit = 0;
+    
+    while (1) {
+        printf("Digite um número: ");
+        scanf("%d", &nmr);
+        dit = dit + nmr;
+        if (nmr == 0)
+            break;
+    }
+
+printf("A soma dos números digitados foi: %d", dit);
+
+return 0;
+
+}
