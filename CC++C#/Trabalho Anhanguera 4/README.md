@@ -36,8 +36,7 @@ Desenvolva um programa em C que:
 
 ## CENÁRIO:
 
-Imagine que você está desenvolvendo um programa para uma empresa que deseja
-automatizar o cálculo dos salários de seus funcionários que trabalham por hora. O cálculo precisa ser realizado de forma modular, separando o cálculo do salário bruto, os descontos e o valor líquido a ser pago ao funcionário.
+Imagine que você está desenvolvendo um programa para uma empresa que deseja automatizar o cálculo dos salários de seus funcionários que trabalham por hora. O cálculo precisa ser realizado de forma modular, separando o cálculo do salário bruto, os descontos e o valor líquido a ser pago ao funcionário.
 
 ## CHECKLIST:
 
@@ -57,15 +56,19 @@ automatizar o cálculo dos salários de seus funcionários que trabalham por hor
 
 
 Aqui eu acesso o OnlineGDB:
+<img width="1023" height="605" alt="1" src="https://github.com/user-attachments/assets/90cae33a-2a95-4ae0-bb96-863a88adfae0" />
 
 
 Crio um código simples de um sistema que pede ao usuário que ele insira quanto ele ganha por hora. Posteriormente, o sistema pergunta ao mesmo, quantas horas ele trabalha por mês. Com essas informações, o sistema calcula o salário bruto, aplica um desconto de 9% sobre esse salário, e por fim, calcula o salário líquido e exibe os valores de ambos:
+<img width="1023" height="607" alt="2" src="https://github.com/user-attachments/assets/970b0238-a361-4736-a9d7-dedddf5a6383" />
 
 
 Neste exemplo abaixo, insiro os valores 12 e 160, indicando quando ele recebe por hora, e quantas horas ele trabalha por mês:
+<img width="1023" height="606" alt="3" src="https://github.com/user-attachments/assets/402f0670-6817-4787-9401-d6f2639e185c" />
 
 
 Neste outro exemplo, coloco valores diferentes mas, desta vez, simulando a remuneração de um estagiário:
+<img width="1023" height="608" alt="4" src="https://github.com/user-attachments/assets/9f79e4c4-6713-4743-9a66-6d9f1a31b77a" />
 
 
 ## RESULTADOS DE APRENDIZAGEM:
@@ -74,4 +77,4 @@ Compreendi como utilizar funções para modularizar cálculos financeiros, imple
 
 ## CÓDIGO COMPLETO:
 
-[Clique aqui!]()
+[Clique aqui!](https://github.com/gabriel-alex279/C/blob/main/CC%2B%2BC%23/Trabalho%20Anhanguera%204/C%C3%B3digo%20Completo.txt)
