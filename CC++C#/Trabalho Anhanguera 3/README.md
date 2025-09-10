@@ -55,15 +55,19 @@ vendas diárias de uma pequena loja. O programa permite que o usuário insira a 
 
 
 Aqui eu acesso o OnlineGDB:
+<img width="1023" height="608" alt="1" src="https://github.com/user-attachments/assets/9451174d-ea3f-4d02-9889-5d4659f6e79c" />
 
 
 Crio um código simples de um sistema de vendas diárias que pede ao usuário que ele insira 5 valores inteiros para armazenar esses valores no vetor. Depois vai calcular a soma de todos os valores, exibir os elementos do vetor e o total dos valores:
+<img width="1023" height="607" alt="2" src="https://github.com/user-attachments/assets/e5d2a241-4b5b-41ee-96cc-62524841716d" />
 
 
 Neste exemplo abaixo, insiro os valores 25, 35, 64, 57, 81. Uma vez finalizado, ele vai mostrar o número de vendas em cada dia e a soma de todos os valores:
+<img width="1023" height="607" alt="3" src="https://github.com/user-attachments/assets/8d46fd4e-4b8e-4eb1-acaa-d4d07ffced41" />
 
 
 Neste outro exemplo, coloco valores diferentes:
+<img width="1023" height="609" alt="4" src="https://github.com/user-attachments/assets/9bb460b2-489e-40f7-a1d9-a1f30419b23e" />
 
 
 ## RESULTADOS DE APRENDIZAGEM:
@@ -72,4 +76,4 @@ Compreendi o funcionamento de vetores na linguagem C, soube como armazenar valor
 
 ## CÓDIGO COMPLETO:
 
-[Clique aqui!]()
+[Clique aqui!](https://github.com/gabriel-alex279/C/blob/main/CC%2B%2BC%23/Trabalho%20Anhanguera%203/C%C3%B3digo%20Completo.txt)
