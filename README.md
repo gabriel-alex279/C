@@ -22,7 +22,7 @@ Exercícios e exemplos simples feitos em Linguagem C/C++/C#.
 
 Atividades práticas solicitadas pela minha Faculdade.
 
-- [Atividade Prática - Trabalho Anhanguera - 1](https://github.com/gabriel-alex279/Linguagem-C/blob/main/CC%2B%2BC%23/C%C3%B3digos/Trabalho%20Anhanguera%20-%201)
-- [Atividade Prática - Trabalho Anhanguera - 2](https://github.com/gabriel-alex279/Linguagem-C/blob/main/CC%2B%2BC%23/C%C3%B3digos/Trabalho%20Anhanguera%20-%202)
-- [Atividade Prática - Trabalho Anhanguera - 3](https://github.com/gabriel-alex279/Linguagem-C/blob/main/CC%2B%2BC%23/C%C3%B3digos/Trabalho%20Anhanguera%20-%203)
-- [Atividade Prática - Trabalho Anhanguera - 4](https://github.com/gabriel-alex279/Linguagem-C/blob/main/CC%2B%2BC%23/C%C3%B3digos/Trabalho%20Anhanguera%20-%204)
+- [Atividade Prática - Trabalho Anhanguera - 1](https://github.com/gabriel-alex279/C/tree/main/CC%2B%2BC%23/Trabalho%20Anhanguera%201)
+- [Atividade Prática - Trabalho Anhanguera - 2]()
+- [Atividade Prática - Trabalho Anhanguera - 3]()
+- [Atividade Prática - Trabalho Anhanguera - 4]()
