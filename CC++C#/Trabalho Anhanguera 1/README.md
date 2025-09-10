@@ -55,16 +55,20 @@ corretamente.
 
 
 Aqui eu acesso o OnlineGDB:
+<img width="1023" height="609" alt="1" src="https://github.com/user-attachments/assets/c56ba7f3-87e2-4c17-b65a-f1d7565b7ea7" />
 
 
 Crio um código simples de um sistema que pede ao usuário 3 números inteiros onde o mesmo vai calcular a soma, a subtração, multiplicação e a divisão dos três números. Também vai verificar se o primeiro número é maior que o segundo,
 e se o segundo é menor que o terceiro e se o primeiro número é positivo e o segundo número é par:
+<img width="1023" height="609" alt="2" src="https://github.com/user-attachments/assets/8c26b736-9fae-4292-b63c-fc2b2e941d3c" />
 
 
 Agora, dando início ao meu código, coloco no exemplo abaixo os seguintes valores: 15, 25, 35:
+<img width="1023" height="607" alt="3" src="https://github.com/user-attachments/assets/d5dcb143-89d9-4f5d-80c7-6d99ece1d0f9" />
 
 
 Nestre outro exemplo, coloco valores diferentes mas desta vez para vericiar se o primeiro número é positivo e o segundo número é par:
+<img width="1023" height="607" alt="4" src="https://github.com/user-attachments/assets/59373b76-6742-46bb-af78-18c5d7399704" />
 
 
 ## RESULTADOS DE APRENDIZAGEM:
@@ -73,4 +77,4 @@ Compreendi o funcionamento dos operadores aritméticos, relacionais e lógicos n
 
 ## CÓDIGO COMPLETO:
 
-[Clique aqui!]()
+[Clique aqui!](https://github.com/gabriel-alex279/C/blob/main/CC%2B%2BC%23/Trabalho%20Anhanguera%201/C%C3%B3digo%20Completo.txt)
